@@ -256,12 +256,12 @@
 
 #es-cerave.es-cerave .es-feature__left {
   text-align: center;
-  max-width: 45%;
+  max-width: 70%;
 }
 
 #es-cerave.es-cerave .es-feature__right {
   text-align: center;
-  max-width: 45%;
+  max-width: 70%;
 }
 
 #es-cerave.es-cerave .es-feature__research {
@@ -320,22 +320,6 @@
 
 #es-cerave.es-cerave .es-benefits__image {
   overflow: hidden;
-}
-
-#es-cerave.es-cerave .es-benefits__solve:hover .es-benefits__img {
-  transform: scale(1.2);
-}
-
-#es-cerave.es-cerave .es-benefits__problem:hover .es-benefits__img {
-  transform: scale(1.2);
-}
-
-#es-cerave.es-cerave .es-benefits__ceramid:hover .es-benefits__img {
-  transform: scale(1.2);
-}
-
-#es-cerave.es-cerave .es-benefits__mve:hover .es-benefits__img {
-  transform: scale(1.2);
 }
 
 #es-cerave.es-cerave .es-benefits__title {
