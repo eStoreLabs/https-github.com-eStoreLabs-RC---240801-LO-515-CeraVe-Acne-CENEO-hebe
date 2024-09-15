@@ -221,7 +221,7 @@
 #es-cerave.es-cerave .es-feature__top {
   font-family: inherit;
   font-size: 23px;
-  text-align: left;
+  text-align: center;
   padding: 10px 20px;
   color: #fff;
 }
@@ -229,7 +229,7 @@
 #es-cerave.es-cerave .es-feature__disclaimer {
   font-size: 10px;
   padding: 20px 20px;
-  text-align: left;
+  text-align: center;
   color: #fff;
 }
 
@@ -989,7 +989,7 @@
   #es-cerave.es-cerave .es-feature__research {
     max-width: 100%;
     color: #fff;
-    min-height: 322px;
+    min-height: 308px;
     padding-left: 381px;
     padding-top: 68px;
   }
